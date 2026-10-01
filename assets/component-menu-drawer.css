@@ -108,6 +108,12 @@ details[open].menu-opening > .menu-drawer__submenu {
   padding-right: 5.2rem;
 }
 
+.menu-drawer__submenu .menu-drawer__menu-item {
+  padding-left: 4.5rem;
+  font-size: 1.5rem;
+  color: rgba(var(--color-foreground), 0.75);
+}
+
 .menu-drawer__menu-item--active,
 .menu-drawer__menu-item:focus,
 .menu-drawer__close-button:focus,
